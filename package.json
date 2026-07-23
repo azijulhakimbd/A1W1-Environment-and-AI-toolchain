@@ -1,0 +1,7 @@
+{
+  "name": "a1w1-environment-and-ai-toolchain",
+  "version": "1.0.0",
+  "description": "Week 1 capstone: development environment and AI toolchain setup",
+  "private": true,
+  "license": "MIT"
+}
